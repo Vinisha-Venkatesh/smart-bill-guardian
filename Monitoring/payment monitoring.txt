@@ -1,0 +1,19 @@
+Smart Bill Guardian
+Payment Monitoring System
+Customer: CUSTOMER1
+
+Transaction ID: TXN1001
+
+Amount: Rs. 1500
+
+Payment Result
+Payment Status: SUCCESS
+
+Transaction completed successfully.
+
+Please do not pay again for this transaction.
+
+Transaction History
+
+Transaction ID	Amount	        Status
+TXN1001 	Rs. 1500	SUCCESS

@@ -1,0 +1,33 @@
+Smart Bill Guardian
+Electricity Bill Monitoring
+Customer 1 Bill Details
+Customer: CUSTOMER1
+
+Bill Amount: Rs. 1500
+
+Due Date: 30 November 2026
+
+Payment Status: PENDING
+
+Bill Reminder - Customer 1
+Your electricity bill payment is due soon!
+
+Please pay before the due date to avoid late fees.
+
+Customer 2 Bill Details
+Customer: CUSTOMER2
+
+Bill Amount: Rs. 2200
+
+Due Date: 5 December 2026
+
+Payment Status: SUCCESS
+
+Bill payment completed successfully.
+
+Bill Reminder - Customer 2
+Your bill has been paid successfully.
+
+No further payment is required for this bill.
+
+Smart Bill Guardian - Bill Monitoring System
