@@ -81,5 +81,4 @@ Connectivity and webpage access were tested from the customer PCs using the Pack
 ## Disclaimer
 This is an educational networking and payment monitoring simulation. It does not process actual payments or connect to real financial systems.
 
-## Author
-Networking Lab Project
+
